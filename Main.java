@@ -1,3 +1,5 @@
+import com.mypackage.Cart;
+
 public class Main{
 	public static void main(String[] args) {
 		Cart keranjang = new Cart();
